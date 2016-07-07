@@ -1,6 +1,6 @@
 {
   "name": "custom-event-universal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cross-browser `CustomEvent` constructor. Forked from webmodules/custom-event and modified to not error when browser globals aren't available.",
   "main": "index.js",
   "scripts": {
